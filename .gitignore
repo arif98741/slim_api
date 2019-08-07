@@ -1,0 +1,7 @@
+.phpintel
+.idea
+.vscode
+vendor
+*.zip
+*.iml
+node_modules
